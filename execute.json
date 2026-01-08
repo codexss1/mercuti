@@ -1,4 +1,5 @@
 {
+  {
   "identification":"x-[placeid]-[jobid]",
   "player":"",
   "code":""
@@ -15,7 +16,4 @@
   "player":"",
   "code":""
 }
-
-
-
-
+}
