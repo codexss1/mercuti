@@ -1,4 +1,4 @@
-{
+[
   {
   "identification":"x-[placeid]-[jobid]",
   "player":"",
@@ -16,4 +16,5 @@
   "player":"",
   "code":""
 }
-}
+]
+
