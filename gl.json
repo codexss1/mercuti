@@ -2,7 +2,8 @@
   {
     "placeid": 76758964233569,
     "code": [
-      "require(1)"
+      "-- Lua Executor",
+      "print('Hello world')"
     ]
   },
   {
