@@ -4,5 +4,11 @@
     "code": [
       "require(1)"
     ]
+  },
+  {
+    "placeid": 0,
+    "code": [
+      "print('f')"
+    ]
   }
 ]
