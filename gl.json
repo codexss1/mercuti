@@ -4,5 +4,12 @@
     "code": [
       "print('f')"
     ]
+  },
+  {
+    "placeid": 76758964233569,
+    "code": [
+      "-- Lua Executor",
+      "print('Hello world')"
+    ]
   }
 ]
