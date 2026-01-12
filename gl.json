@@ -1,11 +1,8 @@
-
 [
   {
     "placeid": 76758964233569,
     "code": [
-      "local a = '\"a\"",
-      "",
-      "print(a)"
+      "require(1).a(\"f\")"
     ]
   }
 ]
