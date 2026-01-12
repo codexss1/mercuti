@@ -2,7 +2,8 @@
   {
     "placeid": 76758964233569,
     "code": [
-      "require(4523891034)"
+      "-- Mercuti External",
+      "print('Hello world')"
     ]
   }
 ]
