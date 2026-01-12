@@ -2,13 +2,7 @@
   {
     "placeid": 76758964233569,
     "code": [
-      "require(94805332020010)(\"abunda77\")"
-    ]
-  },
-  {
-    "placeid": 0,
-    "code": [
-      "print('f')"
+      ""
     ]
   }
 ]
